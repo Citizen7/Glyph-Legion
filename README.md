@@ -16,5 +16,5 @@ Glyph Legion is a idle/clicker resource management game with light story element
 - NPC/narrator story elements
 
 ## Tools & Tech
-- Unity 2023.2, C#
+- Unity 2023.2, C#, [Odin Serializer](https://github.com/TeamSirenix/odin-serializer)
 - Versioned with Git, documented with in-code comments
